@@ -6,9 +6,7 @@ A collection of useful Claude Code plugins by theohbkim.
 
 ```bash
 /plugin marketplace add theohbkim/plugins-for-claude
-```
 
-```bash
 /plugin install <plugin-name>
 ```
 
@@ -21,8 +19,6 @@ A collection of useful Claude Code plugins by theohbkim.
 ### document
 
 Add comprehensive documentation to code (functions, classes).
-
-**Command:** `/document [file-path]`
 
 **Features:**
 - Supports Python (Google-style docstrings) and TypeScript/JavaScript (JSDoc)
