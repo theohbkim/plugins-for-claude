@@ -1,0 +1,17 @@
+{
+  "name": "theohbkim-plugins",
+  "description": "A collection of useful Claude Code plugins by theohbkim",
+  "owner": {
+    "name": "theohbkim",
+    "email": "theohbkim@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "document",
+      "description": "Add comprehensive documentation to code (functions, classes)",
+      "version": "1.0.0",
+      "source": "./plugins/document",
+      "category": "development"
+    }
+  ]
+}
