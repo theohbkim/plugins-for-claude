@@ -4,7 +4,7 @@ argument-hint: [file-path]
 allowed-tools: Read, Edit, Glob, Grep
 ---
 
-Add comprehensive documentation to the specified code.
+# Document command
 
 ## Target Code
 
