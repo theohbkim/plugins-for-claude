@@ -12,6 +12,69 @@
       "version": "1.0.0",
       "source": "./plugins/document",
       "category": "development"
+    },
+    {
+      "name": "cloudflare-docs",
+      "description": "Cloudflare documentation access and search",
+      "category": "documentation",
+      "source": "./external_plugins/cloudflare-docs",
+      "homepage": "https://developers.cloudflare.com/agents/model-context-protocol/"
+    },
+    {
+      "name": "cloudflare-observability",
+      "description": "Cloudflare observability and monitoring tools",
+      "category": "monitoring",
+      "source": "./external_plugins/cloudflare-observability",
+      "homepage": "https://developers.cloudflare.com/agents/model-context-protocol/"
+    },
+    {
+      "name": "cloudflare-workers-bindings",
+      "description": "Cloudflare Workers bindings management",
+      "category": "development",
+      "source": "./external_plugins/cloudflare-workers-bindings",
+      "homepage": "https://developers.cloudflare.com/agents/model-context-protocol/"
+    },
+    {
+      "name": "cloudflare-workers-builds",
+      "description": "Cloudflare Workers build and deployment tools",
+      "category": "deployment",
+      "source": "./external_plugins/cloudflare-workers-builds",
+      "homepage": "https://developers.cloudflare.com/agents/model-context-protocol/"
+    },
+    {
+      "name": "filesystem",
+      "description": "Filesystem operations and file management",
+      "category": "development",
+      "source": "./external_plugins/filesystem",
+      "homepage": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem"
+    },
+    {
+      "name": "firecrawl",
+      "description": "Web scraping and search capabilities with Firecrawl",
+      "category": "integration",
+      "source": "./external_plugins/firecrawl",
+      "homepage": "https://docs.firecrawl.dev/mcp-server"
+    },
+    {
+      "name": "memory",
+      "description": "Knowledge graph-based persistent memory system",
+      "category": "utility",
+      "source": "./external_plugins/memory",
+      "homepage": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory"
+    },
+    {
+      "name": "sequential-thinking",
+      "description": "Dynamic and reflective problem-solving with structured thinking",
+      "category": "utility",
+      "source": "./external_plugins/sequential-thinking",
+      "homepage": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking"
+    },
+    {
+      "name": "magic",
+      "description": "AI-driven tool that helps developers create beautiful, modern UI components instantly through natural language descriptions",
+      "category": "utility",
+      "source": "./external_plugins/magic",
+      "homepage": "https://github.com/21st-dev/magic-mcp"
     }
   ]
 }

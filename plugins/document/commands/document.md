@@ -19,6 +19,7 @@ Determine the target code to document:
 For each function and class found, add documentation that includes:
 
 ### Functions
+
 - Clear description of what the function does
 - All parameters with their types and descriptions
 - Return value type and description
@@ -26,6 +27,7 @@ For each function and class found, add documentation that includes:
 - Any exceptions/errors that may be thrown
 
 ### Classes
+
 - Class purpose and responsibility
 - Constructor parameters with types and descriptions
 - Public methods documented as functions above
@@ -35,6 +37,7 @@ For each function and class found, add documentation that includes:
 ## Language-Specific Styles
 
 ### Python
+
 Use docstrings following the project's existing style. If no existing style is detected, prefer Google-style docstrings:
 
 ```python
@@ -56,6 +59,7 @@ def function_name(param1: str, param2: int) -> bool:
 ```
 
 ### TypeScript/JavaScript
+
 Use JSDoc comments following the project's existing style:
 
 ```typescript
