@@ -75,6 +75,13 @@
       "category": "utility",
       "source": "./external_plugins/magic",
       "homepage": "https://github.com/21st-dev/magic-mcp"
+    },
+    {
+      "name": "vercel",
+      "description": "Vercel deployments and projects",
+      "category": "deployment",
+      "source": "./external_plugins/vercel",
+      "homepage": "https://vercel.com/docs/mcp/vercel-mcp"
     }
   ]
 }
