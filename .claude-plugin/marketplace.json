@@ -42,6 +42,13 @@
       "homepage": "https://developers.cloudflare.com/agents/model-context-protocol/"
     },
     {
+      "name": "context7",
+      "description": "Upstash Context7 MCP server for up-to-date documentation lookup. Pull version-specific documentation and code examples directly from source repositories into your LLM context.",
+      "category": "development",
+      "source": "./external_plugins/context7",
+      "homepage": "https://context7.com/docs/clients/claude-code"
+    },
+    {
       "name": "filesystem",
       "description": "Filesystem operations and file management",
       "category": "development",
