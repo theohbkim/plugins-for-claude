@@ -96,6 +96,13 @@
       "category": "integration",
       "source": "./external_plugins/n8n-mcp",
       "homepage": "https://github.com/czlonkowski/n8n-mcp"
+    },
+    {
+      "name": "serena",
+      "description": "Professional coding agent with semantic coding tools for intelligent file operations, symbol-level editing, and memory management.",
+      "category": "development",
+      "source": "./external_plugins/serena",
+      "homepage": "https://github.com/oraios/serena"
     }
   ]
 }
