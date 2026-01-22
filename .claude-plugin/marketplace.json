@@ -89,6 +89,13 @@
       "category": "deployment",
       "source": "./external_plugins/vercel",
       "homepage": "https://vercel.com/docs/mcp/vercel-mcp"
+    },
+    {
+      "name": "n8n-mcp",
+      "description": "n8n workflow creation and management with AI support. Search nodes, validate workflows, manage templates, and create workflows efficiently.",
+      "category": "integration",
+      "source": "./external_plugins/n8n-mcp",
+      "homepage": "https://github.com/czlonkowski/n8n-mcp"
     }
   ]
 }
